@@ -1,0 +1,12 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Emacs backup files
+*~
+\#*\#
+
+# Ignore LaTeX logs (if I ever write papers here)
+*.log
+*.aux
+*.out
+*.toc
